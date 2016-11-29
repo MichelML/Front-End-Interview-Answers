@@ -31,6 +31,10 @@ This project originates from [Front-end Job Interview Questions](https://github.
 	* J'ai un autre projet sur lequel je travaille actuellement qui utilise React, et qui se veut être une application web permettant d'accéder aux transports disponibles d'un point A à B, que le end-user soit en ligne ou non, utilisant un Service Worker à cette fin. Ce projet me permet également d'intégrer le paradigme de composition primant sur l'inhéritance, un concept prôné par React et par les dev JS, ainsi que tout programmeur OO depuis The Gang of Four.
 	
 * What excites or interests you about coding?
+	* Le pouvoir de créer, et non juste d'en parler
+	* La croyance fondamentale que la majorité des problèmes significatifs de notre société d'aujourd'hui seront pour le moins en partie régler par des logiciels. 
+	* Le défi intellectuel constant
+	* L'apprentissage continu inévitable, j'aime apprendre
 * What is a recent technical challenge you experienced and how did you solve it?
 * What UI, Security, Performance, SEO, Maintainability or Technology considerations do you make while building a web application or site?
 * Talk about your preferred development environment.
