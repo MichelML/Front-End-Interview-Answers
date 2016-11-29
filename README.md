@@ -3,7 +3,7 @@ This file contains a number of front-end interview questions and their answers.
 
 This project originates from [Front-end Job Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions).
 
-**Note:** Keep in mind that these are just an answer of one or a few people, and thus the contributors of this repository do not guarantee the results coming out of responding with the answers of this repository in the context of a real interview.
+**Note:** Keep in mind that these are just answers given by one or a few people, and thus the contributors of this repository do not guarantee the results coming out of responding with the answers of this repository in the context of a real interview.
 
 ## Table of Contents
 
