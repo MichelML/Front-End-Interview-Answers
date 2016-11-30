@@ -7,20 +7,19 @@ This project originates from [Front-end Job Interview Questions](https://github.
 
 ## Table of Contents
 
-  1. [General Questions](#general-questions)
-  1. [HTML Questions](#html-questions)
-  1. [CSS Questions](#css-questions)
-  1. [JS Questions](#js-questions)
-  1. [Testing Questions](#testing-questions)
-  1. [Performance Questions](#performance-questions)
-  1. [Network Questions](#network-questions)
-  1. [Coding Questions](#coding-questions)
-  1. [Fun Questions](#fun-questions)
+  1. [General Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions/blob/master/general.md)
+  1. [HTML Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions/blob/master/html.md)
+  1. [CSS Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions/blob/master/css.md)
+  1. [JS Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions/blob/master/javascript.md)
+  1. [Testing Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions/blob/master/testing.md)
+  1. [Performance Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions/blob/master/performance.md)
+  1. [Network Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions/blob/master/network.md)
+  1. [Coding Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions/blob/master/coding.md)
+  1. [Fun Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions/blob/master/fun.md)
 
 ## Getting Involved
 
-  1. [Contributors](#contributors)
-  1. [How to Contribute](https://github.com/h5bp/Front-end-Developer-Interview-Questions/blob/master/CONTRIBUTING.md)
+  1. [Aknowledgements](#Aknowledgements)
   1. [License](https://github.com/h5bp/Front-end-Developer-Interview-Questions/blob/master/LICENSE.md)
 
 #### General Questions:
@@ -385,6 +384,6 @@ __Answer__:
 * How do you like your coffee?
 
 
-#### Aknowledgements:
+#### Aknowledgements
 
 This project originated from another project called [Front-end Developer Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions), which started in 2009 as a collaboration of [@paul_irish](https://twitter.com/paul_irish) [@bentruyman](https://twitter.com/bentruyman) [@cowboy](https://twitter.com/cowboy) [@ajpiano](https://twitter.com/ajpiano)  [@SlexAxton](https://twitter.com/slexaxton) [@boazsender](https://twitter.com/boazsender) [@miketaylr](https://twitter.com/miketaylr) [@vladikoff](https://twitter.com/vladikoff) [@gf3](https://twitter.com/gf3) [@jon_neal](https://twitter.com/jon_neal) [@sambreed](https://twitter.com/sambreed) and [@iansym](https://twitter.com/iansym), and have received contributions from over [100 developers](https://github.com/h5bp/Front-end-Developer-Interview-Questions/graphs/contributors).
