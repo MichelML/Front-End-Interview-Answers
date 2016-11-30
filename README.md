@@ -123,9 +123,9 @@ This project originates from [Front-end Job Interview Questions](https://github.
 	* Il permet aux éléments HTML de contenir des informations supplémentaires sans utiliser des attributs non standard.
 * Describe the difference between a `cookie`, `sessionStorage` and `localStorage`.
 	* SessionStorage, localStorage et les cookies sont tous utilisés pour stocker des données sur le côté client. Chacun a sa propre limite de stockage et d'expiration. SessionStorage: similaire à localStorage mais expire lorsque le navigateur est fermé (pas l'onglet). Cookie: stocke les données qui doivent être renvoyées au serveur avec les requêtes suivantes.
-* Describe the difference between `<script>`, `<script async>` and `<script defer>`.
-	* <script> arrête le processus de rendu, et télécharge et exécute un script. <script async> n'arrêtent pas le processus de rendu lors du téléchargement asynchrone d'un script. Lors de la fin du téléchargement, il arrête le rendu et exécute le script. <script defer> n'arrêtent pas le processus de rendu lors du téléchargement asynchrone d'un script. Lors de la finition du rendu, il exécute le script
-* Why is it generally a good idea to position CSS `<link>`s between `<head></head>` and JS `<script>`s just before `</body>`? Do you know any exceptions?
+* Describe the difference between `script`, `script async` and `script defer`.
+	* `<script>` arrête le processus de rendu, et télécharge et exécute un script. <script async> n'arrêtent pas le processus de rendu lors du téléchargement asynchrone d'un script. Lors de la fin du téléchargement, il arrête le rendu et exécute le script. <script defer> n'arrêtent pas le processus de rendu lors du téléchargement asynchrone d'un script. Lors de la finition du rendu, il exécute le script
+* Why is it generally a good idea to position CSS `link`s between `<head></head>` and JS `script`s just before `body`? Do you know any exceptions?
  * At a high level, pour que la page soit blanche le moins longtemps possible et qu'elle soit styliser avant le loading du HTML. Les scripts sont mis à la fin du body pour ne pas blocker le rendement de la page, et dans le cas ou le JS doit effectuer des operations sur le DOM, le DOM doit d'abord avoir été téléchargé. Les script avec defer pourrait theoriquement etre mis n'importe ou dans la page. Les CSS qui n'ont pas besoin d'être loader avant le HTML devrait être lazy loader pour accélérer le rendement de la page. 
 
 * What is progressive rendering?
