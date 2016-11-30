@@ -7,7 +7,7 @@ This project originates from [Front-end Job Interview Questions](https://github.
 
 ## Table of Contents
 
-  1. [General Questions](https://github.com/MichelML/Front-End-Interview-Answers/blob/master/blob/master/general.md)
+  1. [General Questions](https://github.com/MichelML/Front-End-Interview-Answers/blob/master/general.md)
   1. [HTML Questions](https://github.com/MichelML/Front-End-Interview-Answers/blob/master/html.md)
   1. [CSS Questions](https://github.com/MichelML/Front-End-Interview-Answers/blob/master/css.md)
   1. [JS Questions](https://github.com/MichelML/Front-End-Interview-Answers/blob/master/javascript.md)
