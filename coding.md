@@ -55,7 +55,7 @@ add(1,2,3,4,5,6,6 /*...and so on*/); // 27
 
 __Answer__:
 ```javascript 
-"goh angasal a m'I"
+"goh angasal a m'i"
 ``` 
 
 *Question: What is the value of `window.foo`?*
